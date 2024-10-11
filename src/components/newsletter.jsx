@@ -15,7 +15,6 @@ const Newsletter = () => {
             </div>
             <p className='text-white text-sm font-bold'>We Care About Protection Of Your Data.Read <span className='text-[#03deff] text-sm underline'>Privacy Policy</span> </p>
         </div>
-    
        </div>
     </div>
   )
